@@ -1,4 +1,3 @@
-===
 This is the repository to download the latest popbot release.
 ===
 
